@@ -1,6 +1,6 @@
 ### Olá eu sou o Guilherme, estudante de ciência da computação 👋
 
-- 🔭No momento estou trabalhando com Suporte em Informática
+- 🔭 No momento estou trabalhando com Suporte em Informática
 - 🌱 Atualmente estou aprendendo C
 - 📫 Você pode me encontrar em: "guilherme.a.m.souza0613@gmail.com"
 - 😄 Pronome: Ele/dele
