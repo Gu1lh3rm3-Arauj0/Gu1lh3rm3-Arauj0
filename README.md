@@ -1,4 +1,4 @@
-### Olá eu sou o Guilherme, estudante de ciência da computação 👋
+### Olá eu sou o Guilherme, estudante de Ciência e Tecnologia 👋
 
 - 🔭 No momento estou trabalhando com Suporte em Informática
 - 🌱 Atualmente estou aprendendo C
