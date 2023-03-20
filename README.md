@@ -1,7 +1,7 @@
 ### Olá eu sou o Guilherme, estudante de Ciência e Tecnologia na Universidade federal de São Paulo👋
 
 - 🔭 No momento estou trabalhando com Suporte em Informática na Sonda IT
-- 🌱 Atualmente estou aprendendo C
+- 🌱 Atualmente estou aprendendo C e Python
 - 📫 Você pode me encontrar em: "guilherme.a.m.souza0613@gmail.com"
 
 ##
