@@ -1,8 +1,12 @@
-### Olá eu sou o Guilherme, estudante de Ciência e Tecnologia na Universidade federal de São Paulo👋
+### # Olá, me chamo Guilherme Araújo
 
-- 🔭 No momento estou trabalhando com Suporte em Informática na Sonda IT
-- 🌱 Atualmente estou aprendendo C, Python, TypeScript e SQL
+- 🔭 Atualmente estou trabalhando com Suporte em Informática na Sonda IT
+- 📚 Sou estudante de Ciência e Tecnologia na Universidade federal de São Paulo (UNIFESP)
+- 🌱 Atualmente estou aprendendo C, Python e SQL
 - 📫 Você pode me encontrar em: "guilherme.a.m.souza0613@gmail.com"
+
+## Ferramentas e Tecnologias
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" /> 
 
 ##
 
@@ -20,7 +24,7 @@
   </div>
  
  ##
- 
-  ![Snake animation](https://github.com/Gu1lh3rm3-Arauj0/Gu1lh3rm3-Arauj0/blob/output/github-contribution-grid-snake.svg)
+
+ ![Snake animation](https://github.com/sGu1lh3rm3-Arauj0/Gu1lh3rm3-Arauj0/blob/output/github-contribution-grid-snake.svg)
 
 ##
