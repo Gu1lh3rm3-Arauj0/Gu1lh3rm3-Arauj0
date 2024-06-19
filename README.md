@@ -1,4 +1,4 @@
-### # Olá, me chamo Guilherme Araújo
+### Olá, me chamo Guilherme Araújo
 
 - 🔭 Atualmente estou trabalhando com Suporte em Informática na Sonda IT
 - 📚 Sou estudante de Ciência e Tecnologia na Universidade Federal de São Paulo (UNIFESP)
@@ -19,7 +19,6 @@
   ##
  
  ![Snake animation](https://github.com/Gu1lh3rm3-Arauj0/Gu1lh3rm3-Arauj0/blob/output/github-contribution-grid-snake.svg)
-
  
  ##
 
