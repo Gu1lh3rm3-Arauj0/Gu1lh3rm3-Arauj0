@@ -3,7 +3,7 @@
 - 🔭 Atualmente estou trabalhando como Analista de Service Desk na Sonda IT
 - 📚 Sou estudante de Ciência e Tecnologia na Universidade Federal de São Paulo (UNIFESP)
 - 🌱 Atualmente estou Ciência de Dados e Inteligência Artificial
-- 📫 Você pode me encontrar em: "guilherme.a.m.souza0613@gmail.com"
+- 📫 Você pode me encontrar em: "[LinkeIn](https://www.linkedin.com/in/guilherme-a-m-souza/)"
 
 ## 🛠️ Ferramentas e Tecnologias
 - **Linguagens**: Python, C e JavaScript
