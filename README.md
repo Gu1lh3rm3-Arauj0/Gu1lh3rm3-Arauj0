@@ -16,6 +16,7 @@
 ## 🚀 Projetos em Destaque
 - [**Intenção de Compra no Ecommerce**](https://github.com/Gu1lh3rm3-Arauj0/Intencao-de-Compra-no-Ecommerce): Análise e modelagem de dados para prever a intenção de compra de clientes em um site de ecommerce, utilizando machine learning para segmentação e classificação de comportamento.
 - [**Fraud Detection Machine Learning**](https://github.com/Gu1lh3rm3-Arauj0/fraud-detection-machine-learning): Projeto de detecção de fraudes utilizando algoritmos de machine learning para identificar transações fraudulentas.
+##
 
 <div align="center">
   <a href="https://github.com/Gu1lh3rm3-Arauj0">
