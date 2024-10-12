@@ -12,7 +12,6 @@
 - **Ferramentas**: Git, Github, VS Code e Jupyter Notebook
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50" height="50"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" width="50" height="50"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg"  width="50" height="50"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" width="50" height="50"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"  width="50" height="50"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" width="50" height="50"/>   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
-##
 
 ## 🚀 Projetos em Destaque
 - [**Intenção de Compra no Ecommerce**](https://github.com/Gu1lh3rm3-Arauj0/Intencao-de-Compra-no-Ecommerce): Análise e modelagem de dados para prever a intenção de compra de clientes em um site de ecommerce, utilizando machine learning para segmentação e classificação de comportamento.
